@@ -1,0 +1,29 @@
+# Java / Maven
+target/
+*.class
+.mvn/
+.metadata/
+.project
+.settings/
+.classpath
+*.log
+*.tmp
+
+# Node.js
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.eslintcache
+
+# IDE / OS
+.idea/
+.vscode/
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Logs
+error.log
+error-cmd.log
+log.txt
